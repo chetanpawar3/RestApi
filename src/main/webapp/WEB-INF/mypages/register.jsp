@@ -19,7 +19,7 @@ margin: 0 auto;
 
 <div class="container center_div">
             <h3 class="text-center">Register</h3>
-            <form method="POST" action="/loginvalidate">
+            <form method="POST" action="/registervalidate">
               <div class="form-label-group">
                <label for="inputEmail">Username</label>
                 <input type="text" id="inputEmail" class="form-control" placeholder="Enter username" name="uname" required autofocus>
